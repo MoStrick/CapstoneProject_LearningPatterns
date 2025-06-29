@@ -10,24 +10,24 @@ NWMSU Capstone Project: As digital education becomes more widespread, platforms 
 
 # Project pdf in overleaf: <https://www.overleaf.com/read/ddqttstjsspz#d36425>
 
-#Project Workflow
-  Data Exploration & Cleaning
+# Project Workflow
+  1. Data Exploration & Cleaning
     Load and merge log.csv, tag.csv
     Clean missing or malformed rows
-  Feature Engineering
+  2. Feature Engineering
     Generate user-level features: accuracy, time per question, topic diversity
-  Standardization
+  3. Standardization
     Normalize features for clustering
-  Clustering
+  4. Clustering
     Use KMeans to find learning behavior groups
     Evaluate with silhouette score
-  Dimensionality Reduction & Visualization
+  5. Dimensionality Reduction & Visualization
     Apply t-SNE or UMAP
     Visualize clusters
-  Interpretation
+  6. Interpretation
     Describe characteristics of each cluster
     Suggest educational interventions
-  Limitations
+  7. Limitations
     No deep temporal sequence modeling (e.g., LSTM or DKT)
     Only uses basic user-level aggregation, not time-series
     No true causal inference (just pattern discovery)  
