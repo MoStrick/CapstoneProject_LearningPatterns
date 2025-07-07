@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+jupyterlab
+notebook
+tqdm
+tsne-torch  # Optional: GPU-accelerated t-SNE
+plotly      # Optional: interactive visuals
+streamlit   # Optional: building an app

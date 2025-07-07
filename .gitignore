@@ -5,3 +5,9 @@ ENV/
 CP/
 Lib/
 *.egg-info/
+
+EdNet-KT1/
+EdNet-KT2/
+EdNet-KT3/
+EdNet-KT4/
+
