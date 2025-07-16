@@ -33,4 +33,19 @@ NWMSU Capstone Project: As digital education becomes more widespread, platforms 
     - No true causal inference (just pattern discovery)  
     - Assumes all interactions are equally weighted (could improve with weighted models)
 
+# Clone repository to machine
+In terminal:
+ cd "C:\Users\missm\OneDrive\Documents\Capstone_Project_Strickland"
+PS C:\Users\missm\OneDrive\Documents\Capstone_Project_Strickland> 
+git clone https://github.com/MoStrick/CapstoneProject_LearningPatterns
 
+
+# Virtual Environment
+ 1. Create virtual environment named CP 
+    python -m venv CP
+
+ 2. Activate
+ 	  CP\Scripts\activate
+
+ 3. Install (pip install )
+    requirements.txt
