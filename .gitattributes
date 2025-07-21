@@ -2,9 +2,9 @@
 
 # Use LF for all text files
 * text=auto
-
 # Force LF for key file types
 *.csv text eol=lf
 *.py   text eol=lf
 *.md   text eol=lf
 .gitignore text eol=lf
+*.parquet filter=lfs diff=lfs merge=lfs -text
