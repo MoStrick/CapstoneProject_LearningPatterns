@@ -1,5 +1,4 @@
 .gitattributes
-
 # Use LF for all text files
 * text=auto
 # Force LF for key file types
