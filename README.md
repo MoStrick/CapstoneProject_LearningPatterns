@@ -11,8 +11,6 @@ NWMSU Capstone Project: As digital education becomes more widespread, platforms 
 # Project pdf in overleaf: <https://www.overleaf.com/read/ddqttstjsspz#d36425>
 
 
-
-```markdown
 # Capstone Project: Clustering Student Learning Behaviors
 
 As digital education becomes more widespread, platforms collect massive amounts of behavioral data that can help educators and designers personalize instruction. Understanding how students approach learning — their speed, accuracy, and engagement — can lead to more adaptive systems and better outcomes. :contentReference[oaicite:0]{index=0}
