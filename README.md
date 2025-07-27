@@ -96,10 +96,10 @@ Briefly, the merged Parquet (`EdNet_full_log.parquet`) contains:
 
 ## Installation & Setup
 1. **Clone the repo**  
-   ```bash
+   bash
    git clone https://github.com/MoStrick/CapstoneProject_LearningPatterns.git
    cd CapstoneProject_LearningPatterns
-````
+
 
 2. **Create & activate virtual environment**
 
@@ -114,7 +114,7 @@ Briefly, the merged Parquet (`EdNet_full_log.parquet`) contains:
    pip install -r requirements.txt
    ```
 
----
+
 
 ## Usage & Notebooks
 
